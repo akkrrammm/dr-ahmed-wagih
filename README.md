@@ -1,5 +1,7 @@
 # Dr. Ahmed Wagih — Clinic Website
 
+[![Dr. Ahmed Wagih website](https://raw.githubusercontent.com/akkrrammm/akkrrammm/main/assets/ahmed-wagih.jpg)](https://dr-ahmedwagih.com/)
+
 > Official multilingual (Arabic / English) website for Dr. Ahmed Wagih, with a fully dynamic admin dashboard.
 
 🔗 **Live site:** [dr-ahmedwagih.com](https://dr-ahmedwagih.com/)
